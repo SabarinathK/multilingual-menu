@@ -10,10 +10,6 @@ An interactive Streamlit application to generate multilingual recipes based on i
 
 This is a Streamlit app designed to take uploaded images of ingredients, identify the ingredient via the Clarifai API, and generate a recipe based on those ingredients in a desired language and culinary style.
 
-## 
-
-
-
 ## Features:
 - 📷 **Image-based Ingredient Detection**: Upload images of your ingredients and the app will predict their names.
 - 📜 **Manual Ingredient Input**: Alternatively, manually type in your ingredients.
@@ -22,6 +18,9 @@ This is a Streamlit app designed to take uploaded images of ingredients, identif
 - 📺 **Demo Video**: Visual walkthrough to guide users.
 - ⚙️ **Interactive UI**: User-friendly interface with real-time feedback.
 
+## Demo Video:
+
+Link : https://www.youtube.com/watch?v=gmYVblv8rec
 
 ## How to Use:
 
